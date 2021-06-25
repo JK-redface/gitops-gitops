@@ -3,5 +3,4 @@ kind: Group
 metadata:
   name: project-leaders
 users:
-  - developer
-  - newdev
+  - alice
