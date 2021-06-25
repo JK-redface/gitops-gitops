@@ -8,7 +8,7 @@ spec:
   identityProviders:
   - htpasswd:
       fileData:
-        name: htpasswd-secret
+        name: htpasswd
     mappingMethod: claim
-    name: htpasswd_provider
+    name: "Local Password"
     type: HTPasswd
